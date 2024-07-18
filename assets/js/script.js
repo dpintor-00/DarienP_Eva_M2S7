@@ -41,7 +41,7 @@ function caso4(otraOpcion){
     }
 }
 
-//CASOS DE OPCIONES
+//CASOS
 
 switch (parseInt(opcion)) {
     case 1:
